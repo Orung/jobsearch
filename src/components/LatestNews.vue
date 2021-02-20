@@ -14,7 +14,7 @@
             <h5 class="m-0">{{job.company.name}}</h5>
           </div>
           <div class="position-relative">
-            <vue-link class="btn-green">Appy Now</vue-link>
+            <vue-link class="btn-green" :to="job.url">Appy Now</vue-link>
           </div>
         </div>
       </div>
