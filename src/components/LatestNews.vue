@@ -4,7 +4,7 @@
       <h2 class="latest-news">Latest Jobs </h2>
       <div class="grid-latest">
         <div class="grid-card mt-3" v-for="(job, index) in jobs" :key="index">
-          <h5 class="card-title mb-2">{{job.title}}</h5>
+          <h4 class="card-title mb-2">{{job.title}}</h4>
           <div class="details">
             <p class="m-0 remote">{{job.location}} </p>
             <p class="m-0 color-pink py-1">{{job.published_at.for_humans}}</p>
