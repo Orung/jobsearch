@@ -1,4 +1,5 @@
 # huntr-job
+A website for software developers to search or jobs
 
 ## Project setup
 ```
