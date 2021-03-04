@@ -1,4 +1,4 @@
-# huntr-job
+# Job Seekers
 A website for software developers to search or jobs
 
 ## Project setup
